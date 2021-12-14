@@ -24,11 +24,13 @@ button {
 
 .completed-button {
     display: inline-block;
-    background-color: #22ee22;
+    background-color: #008000;
+    color: #fff;
 }
 
 .remove-button {
     display: inline-block;
-    background-color: #ee2222;
+    background-color: #AF0000;
+    color: #fff;
     margin-left: 8px;
 }
